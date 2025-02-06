@@ -1,3 +1,13 @@
+> ## 🚨 Important Notice
+>
+> This repository is a clone of the
+> [Advanced React Hooks legacy-module](https://github.com/kentcdodds/advanced-react-hooks)
+> by Kent C. Dodds. It has been published solely to document my GitHub activity
+> and for personal educational purposes.
+>
+> **Note:** This is not an official fork or a maintained derivative of the
+> original project.
+
 <div>
   <h1 align="center"><a href="https://www.epicreact.dev/modules/advanced-react-hooks-v1/advanced-react-hooks-welcome">🔥 Advanced React Hooks 🚀 EpicReact.Dev</a></h1>
   <strong>
