@@ -7,7 +7,7 @@ const CountContext = React.createContext()
 
 const CountProvider = props => {
   const [count, setCount] = React.useState(0)
-  const value = [count, setCount]
+  const value = React.useMemo(() => [count, setCount], [count, setCount])
   return <CountContext.Provider value={value} {...props} />
 }
 
